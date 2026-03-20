@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+
+.tab.current-tab {
+    background-color:rgba(219, 226, 239, 0.5);
+    border-radius: 4px;
+}
+
+.form-container.active {
+    scale:1;
+    opacity: 1;
+    display:flex;
+}
+
+/* 
+.parameter-container {
+ display: flex;
+ justify-content: center;
+ gap: 40px;
+
+
+}
+.parameter img{
+    width: 80px;
+}
+
+
+.tab{
+    background-color: red;
+    height: 2rem;
+   
+} */
